@@ -1,2 +1,3 @@
 # IBM-Training
-Data science professional certificate
+
+Cousera-Data science professional certificate
